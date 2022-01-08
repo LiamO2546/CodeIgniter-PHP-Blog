@@ -1,0 +1,468 @@
+CRITICAL - 2022-01-06 02:58:40 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 02:58:53 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 02:59:02 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 03:00:25 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 03:03:09 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 03:03:19 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 03:07:33 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 03:08:08 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 03:08:47 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 03:08:55 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 03:22:17 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 03:26:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+CRITICAL - 2022-01-06 03:26:48 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp\htdocs\BlogProject\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp\htdocs\BlogProject\public\index.php(28): require('C:\\xampp\\htdocs...')
+#4 {main}
+ERROR - 2022-01-06 14:17:03 --> Table 'blogproject.blog' doesn't exist
+CRITICAL - 2022-01-06 14:17:03 --> Table 'blogproject.blog' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-06 14:46:11 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\xampp\\htdocs...', 933)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(933): number_format(NULL, 6)
+#2 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\Database.php(112): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(368): CodeIgniter\Debug\Toolbar->run(1641501971.8032, 0.1032, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\xampp\htdocs\BlogProject\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\xampp\htdocs\BlogProject\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(429): CodeIgniter\Filters\Filters->run('blog/create', 'after')
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-06 14:47:27 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\xampp\\htdocs...', 933)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(933): number_format(NULL, 6)
+#2 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\Database.php(112): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(368): CodeIgniter\Debug\Toolbar->run(1641502047.6703, 0.0368, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\xampp\htdocs\BlogProject\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\xampp\htdocs\BlogProject\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(429): CodeIgniter\Filters\Filters->run('blog/create', 'after')
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-06 14:47:56 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\xampp\\htdocs...', 933)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(933): number_format(NULL, 6)
+#2 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\Database.php(112): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(368): CodeIgniter\Debug\Toolbar->run(1641502076.5093, 0.037, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\xampp\htdocs\BlogProject\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\xampp\htdocs\BlogProject\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(429): CodeIgniter\Filters\Filters->run('blog/create', 'after')
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-06 14:51:29 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\xampp\\htdocs...', 933)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(933): number_format(NULL, 6)
+#2 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\Database.php(112): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(368): CodeIgniter\Debug\Toolbar->run(1641502289.6078, 0.0381, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\xampp\htdocs\BlogProject\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\xampp\htdocs\BlogProject\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(429): CodeIgniter\Filters\Filters->run('blog/create', 'after')
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-06 14:51:38 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\xampp\\htdocs...', 933)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(933): number_format(NULL, 6)
+#2 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\Database.php(112): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(368): CodeIgniter\Debug\Toolbar->run(1641502298.9197, 0.0373, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\xampp\htdocs\BlogProject\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\xampp\htdocs\BlogProject\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(429): CodeIgniter\Filters\Filters->run('blog/create', 'after')
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-06 14:53:09 --> number_format(): Passing null to parameter #1 ($num) of type float is deprecated
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(8192, 'number_format()...', 'C:\\xampp\\htdocs...', 933)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(933): number_format(NULL, 6)
+#2 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\Database.php(112): CodeIgniter\Database\BaseConnection->getConnectDuration()
+#3 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(115): CodeIgniter\Debug\Toolbar\Collectors\Database->formatTimelineData()
+#4 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar\Collectors\BaseCollector.php(231): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->timelineData()
+#5 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(90): CodeIgniter\Debug\Toolbar\Collectors\BaseCollector->getAsArray()
+#6 C:\xampp\htdocs\BlogProject\system\Debug\Toolbar.php(368): CodeIgniter\Debug\Toolbar->run(1641502389.8167, 0.0378, Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#7 C:\xampp\htdocs\BlogProject\system\Filters\DebugToolbar.php(40): CodeIgniter\Debug\Toolbar->prepare(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response))
+#8 C:\xampp\htdocs\BlogProject\system\Filters\Filters.php(196): CodeIgniter\Filters\DebugToolbar->after(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), NULL)
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(429): CodeIgniter\Filters\Filters->run('blog/create', 'after')
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-06 16:16:13 --> Allowed fields must be specified for model: App\Models\BlogModel
+#0 C:\xampp\htdocs\BlogProject\system\BaseModel.php(1138): CodeIgniter\Database\Exceptions\DataException::forInvalidAllowedFields('App\\Models\\Blog...')
+#1 C:\xampp\htdocs\BlogProject\system\BaseModel.php(713): CodeIgniter\BaseModel->doProtectFields(Array)
+#2 C:\xampp\htdocs\BlogProject\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#3 C:\xampp\htdocs\BlogProject\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#4 C:\xampp\htdocs\BlogProject\app\Controllers\Blog.php(34): CodeIgniter\BaseModel->save(Array)
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Blog->create()
+#6 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#7 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-06 16:18:26 --> There is no data to insert.
+#0 C:\xampp\htdocs\BlogProject\system\BaseModel.php(718): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\BlogProject\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#2 C:\xampp\htdocs\BlogProject\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#3 C:\xampp\htdocs\BlogProject\app\Controllers\Blog.php(34): CodeIgniter\BaseModel->save(Array)
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Blog->create()
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Blog))
+#6 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-06 16:56:50 --> preg_match(): Compilation failed: missing closing parenthesis at offset 10
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(384): preg_match('#^blog/(.*$#u', 'post/Test', Array)
+#2 C:\xampp\htdocs\BlogProject\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('post/Test')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('post/Test')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 16:58:30 --> preg_match(): Compilation failed: missing closing parenthesis at offset 10
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(384): preg_match('#^blog/(.*$#u', 'post/Test', Array)
+#2 C:\xampp\htdocs\BlogProject\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('post/Test')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('post/Test')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 16:59:05 --> preg_match(): Compilation failed: missing closing parenthesis at offset 10
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(384): preg_match('#^blog/(.*$#u', 'blog/Test', Array)
+#2 C:\xampp\htdocs\BlogProject\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('blog/Test')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('blog/Test')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 17:00:24 --> preg_match(): Compilation failed: missing closing parenthesis at offset 10
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(384): preg_match('#^blog/(.*$#u', 'blog/Test', Array)
+#2 C:\xampp\htdocs\BlogProject\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('blog/Test')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('blog/Test')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 17:00:27 --> preg_match(): Compilation failed: missing closing parenthesis at offset 10
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(384): preg_match('#^blog/(.*$#u', 'blog/Test', Array)
+#2 C:\xampp\htdocs\BlogProject\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('blog/Test')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('blog/Test')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 17:01:42 --> preg_match(): Compilation failed: missing closing parenthesis at offset 10
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(384): preg_match('#^blog/(.*$#u', 'blog/Test', Array)
+#2 C:\xampp\htdocs\BlogProject\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('blog/Test')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('blog/Test')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 17:01:44 --> preg_match(): Compilation failed: missing closing parenthesis at offset 10
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(384): preg_match('#^blog/(.*$#u', 'blog/test3', Array)
+#2 C:\xampp\htdocs\BlogProject\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('blog/test3')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('blog/test3')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 17:03:54 --> preg_match(): Compilation failed: missing closing parenthesis at offset 10
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(384): preg_match('#^blog/(.*$#u', 'blog/Test', Array)
+#2 C:\xampp\htdocs\BlogProject\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('blog/Test')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('blog/Test')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 17:09:23 --> preg_match(): Compilation failed: missing closing parenthesis at offset 10
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(384): preg_match('#^blog/(.*$#u', 'blog/Test', Array)
+#2 C:\xampp\htdocs\BlogProject\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('blog/Test')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('blog/Test')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-06 17:09:25 --> preg_match(): Compilation failed: missing closing parenthesis at offset 10
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'preg_match(): C...', 'C:\\xampp\\htdocs...', 384)
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(384): preg_match('#^blog/(.*$#u', 'blog/Test', Array)
+#2 C:\xampp\htdocs\BlogProject\system\Router\Router.php(154): CodeIgniter\Router\Router->checkRoutes('blog/Test')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('blog/Test')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+ERROR - 2022-01-06 17:42:34 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 17:42:34 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 17:47:56 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 17:47:56 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 17:48:10 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 17:48:10 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 17:48:27 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 17:48:27 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 17:58:57 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 17:58:57 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 18:02:39 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 18:02:39 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 18:04:12 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 18:04:12 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 18:05:55 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 18:05:55 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 18:05:55 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 18:05:55 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 21:36:22 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 21:36:22 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 21:46:54 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 21:46:54 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+ERROR - 2022-01-06 21:50:42 --> Table 'blogproject.posts' doesn't exist
+CRITICAL - 2022-01-06 21:50:42 --> Table 'blogproject.posts' doesn't exist
+#0 C:\xampp\htdocs\BlogProject\system\Database\MySQLi\Connection.php(292): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\BlogProject\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\BlogProject\system\Database\BaseBuilder.php(1455): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\BlogProject\system\Model.php(183): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\BlogProject\system\BaseModel.php(584): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\BlogProject\app\Models\BlogModel.php(9): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(13): App\Models\BlogModel->getPosts()
+#8 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->index()
+#9 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#10 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}

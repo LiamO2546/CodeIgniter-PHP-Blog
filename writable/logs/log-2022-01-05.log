@@ -1,0 +1,25 @@
+CRITICAL - 2022-01-05 20:38:41 --> Class "CI_Controller" not found
+#0 C:\xampp\htdocs\BlogProject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('blogs')
+#2 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('blogs')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-05 20:42:33 --> Class "App\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\BlogProject\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\BlogProject\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('Pages')
+#2 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('Pages')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-05 20:57:34 --> Invalid file: pages/aboutus.php
+#0 C:\xampp\htdocs\BlogProject\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/aboutus.p...')
+#1 C:\xampp\htdocs\BlogProject\system\Common.php(1089): CodeIgniter\View\View->render('pages/aboutus', Array, true)
+#2 C:\xampp\htdocs\BlogProject\app\Controllers\Pages.php(15): view('pages/aboutus')
+#3 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(825): App\Controllers\Pages->showme('aboutus')
+#4 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Pages))
+#5 C:\xampp\htdocs\BlogProject\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\BlogProject\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
